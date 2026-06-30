@@ -12,19 +12,28 @@ git clone https://github.com/QAADE5/library-pipeline-runner.git
 cd library-pipeline-runner
 ```
 
-### 2. Install dependencies
+### 2. Activate a virtual environment
+
+Use your existing project venv, or create a new one:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Install your pipeline package
+### 4. Install your pipeline package
 
 ```bash
 pip install git+https://github.com/YOUR_ORG/YOUR_REPO.git
 ```
 
-### 4. Run the pipeline
+### 5. Run the pipeline
 
 ```bash
 python -m data_processing.run_pipeline
@@ -32,12 +41,12 @@ python -m data_processing.run_pipeline
 
 Cleaned files will appear in `data/silver/`.
 
-### 5. Load to SQL Server
+### 6. Load to SQL Server
 
 ```bash
 python load_to_sql.py
 ```
 
-### 6. Open SSMS
+### 7. Open SSMS
 
 Connect to `localhost` and explore the `library_warehouse` database.
