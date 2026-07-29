@@ -1,1022 +1,1022 @@
 [
   {
-    "event_id": "EVT1000",
-    "name": "Reading for Wellbeing",
-    "branch": "Harehills Branch",
-    "date": "2025-11-22",
+    "event_id": "EVT0000",
+    "name": "Computer Skills Workshop",
+    "branch": "Custom House",
+    "date": "2026-05-06",
     "attendance": {
-      "registered": 12,
-      "actual": 50,
+      "registered": 27,
+      "actual": 28,
       "age_breakdown": {
-        "0-5": 9,
-        "6-12": 7,
+        "0-5": 7,
+        "6-12": 15,
+        "13-17": 5,
+        "18+": 18
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0001",
+    "name": "Homework Help Session",
+    "branch": "Stratford",
+    "date": "2026-03-13",
+    "attendance": {
+      "registered": 39,
+      "actual": 45,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 11,
         "13-17": 1,
-        "18+": 23
+        "18+": 17
       }
     },
-    "feedback_score": 2.6
+    "feedback_score": 4.9
   },
   {
-    "event_id": "EVT1001",
-    "name": "Storytime for Toddlers",
-    "branch": "Armley Branch",
-    "date": "2025-05-13",
+    "event_id": "EVT0002",
+    "name": "Book Club Meeting",
+    "branch": "Plaistow",
+    "date": "2026-03-02",
     "attendance": {
-      "registered": 12,
-      "actual": 43,
-      "age_breakdown": {
-        "0-5": 1,
-        "6-12": 10,
-        "13-17": 6,
-        "18+": 15
-      }
-    },
-    "feedback_score": 3.8
-  },
-  {
-    "event_id": "EVT1002",
-    "name": "Storytime for Toddlers",
-    "branch": "Harehills Branch",
-    "date": "2025-10-25",
-    "attendance": {
-      "registered": 30,
-      "actual": 5,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 10,
-        "13-17": 2,
-        "18+": 19
-      }
-    },
-    "feedback_score": 2.9
-  },
-  {
-    "event_id": "EVT1003",
-    "name": "Job Search Support",
-    "branch": "Armley Branch",
-    "date": "2025-04-22",
-    "attendance": {
-      "registered": 38,
+      "registered": 27,
       "actual": 25,
       "age_breakdown": {
         "0-5": 4,
-        "6-12": 9,
-        "13-17": 4,
+        "6-12": 10,
+        "13-17": 8,
         "18+": 18
       }
     },
     "feedback_score": 4.7
   },
   {
-    "event_id": "EVT1004",
-    "name": "Storytime for Toddlers",
-    "branch": "Morley Branch",
-    "date": "2025-10-17",
+    "event_id": "EVT0003",
+    "name": "Author Talk",
+    "branch": "North Woolwich",
+    "date": "2025-08-14",
     "attendance": {
-      "registered": 22,
-      "actual": 13,
-      "age_breakdown": {
-        "0-5": 4,
-        "6-12": 0,
-        "13-17": 5,
-        "18+": 22
-      }
-    },
-    "feedback_score": 1.5
-  },
-  {
-    "event_id": "EVT1005",
-    "name": "Reading for Wellbeing",
-    "branch": "Moortown Branch",
-    "date": "2025-05-28",
-    "attendance": {
-      "registered": 10,
-      "actual": 20,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 9,
-        "13-17": 6,
-        "18+": 25
-      }
-    },
-    "feedback_score": 2.8
-  },
-  {
-    "event_id": "EVT1006",
-    "name": "English Conversation Class",
-    "branch": "Beeston Branch",
-    "date": "2025-11-06",
-    "attendance": {
-      "registered": 25,
-      "actual": 13,
-      "age_breakdown": {
-        "0-5": 3,
-        "6-12": 8,
-        "13-17": 6,
-        "18+": 16
-      }
-    },
-    "feedback_score": 2.0
-  },
-  {
-    "event_id": "EVT1007",
-    "name": "Book Club Meeting",
-    "branch": "Chapeltown Branch",
-    "date": "2025-02-21",
-    "attendance": {
-      "registered": 10,
-      "actual": 14,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 10,
-        "13-17": 6,
-        "18+": 9
-      }
-    },
-    "feedback_score": 3.7
-  },
-  {
-    "event_id": "EVT1008",
-    "name": "English Conversation Class",
-    "branch": "Armley Branch",
-    "date": "2026-10-06",
-    "attendance": {
-      "registered": 24,
-      "actual": 37,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 8,
-        "13-17": 7,
-        "18+": 17
-      }
-    },
-    "feedback_score": 2.2
-  },
-  {
-    "event_id": "EVT1009",
-    "name": "Job Search Support",
-    "branch": "City Centre Branch",
-    "date": "2026-12-08",
-    "attendance": {
-      "registered": 32,
-      "actual": 37,
-      "age_breakdown": {
-        "0-5": 4,
-        "6-12": 6,
-        "13-17": 8,
-        "18+": 23
-      }
-    },
-    "feedback_score": 4.9
-  },
-  {
-    "event_id": "EVT1010",
-    "name": "Job Search Support",
-    "branch": "Armley Branch",
-    "date": "2026-02-19",
-    "attendance": {
-      "registered": 25,
-      "actual": 49,
+      "registered": 13,
+      "actual": 7,
       "age_breakdown": {
         "0-5": 1,
-        "6-12": 2,
-        "13-17": 8,
-        "18+": 29
-      }
-    },
-    "feedback_score": 3.1
-  },
-  {
-    "event_id": "EVT1011",
-    "name": "Storytime for Toddlers",
-    "branch": "Pudsey Branch",
-    "date": "2025-04-16",
-    "attendance": {
-      "registered": 30,
-      "actual": 47,
-      "age_breakdown": {
-        "0-5": 10,
-        "6-12": 1,
-        "13-17": 8,
-        "18+": 30
-      }
-    },
-    "feedback_score": 3.6
-  },
-  {
-    "event_id": "EVT1012",
-    "name": "Coding for Beginners",
-    "branch": "Pudsey Branch",
-    "date": "2025-08-15",
-    "attendance": {
-      "registered": 26,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 5,
-        "13-17": 6,
-        "18+": 16
-      }
-    },
-    "feedback_score": 4.3
-  },
-  {
-    "event_id": "EVT1013",
-    "name": "Local History Talk",
-    "branch": "Chapeltown Branch",
-    "date": "2025-12-20",
-    "attendance": {
-      "registered": 33,
-      "actual": 24,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 4,
+        "6-12": 14,
         "13-17": 0,
-        "18+": 25
+        "18+": 3
       }
     },
-    "feedback_score": 2.1
+    "feedback_score": 3.3
   },
   {
-    "event_id": "EVT1014",
-    "name": "Digital Skills Workshop",
-    "branch": "Meanwood Branch",
-    "date": "2025-05-16",
-    "attendance": {
-      "registered": 12,
-      "actual": 13,
-      "age_breakdown": {
-        "0-5": 8,
-        "6-12": 1,
-        "13-17": 4,
-        "18+": 13
-      }
-    },
-    "feedback_score": 2.5
-  },
-  {
-    "event_id": "EVT1015",
-    "name": "Local History Talk",
-    "branch": "City Centre Branch",
-    "date": "2025-10-06",
-    "attendance": {
-      "registered": 39,
-      "actual": 42,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 10,
-        "13-17": 7,
-        "18+": 16
-      }
-    },
-    "feedback_score": 2.4
-  },
-  {
-    "event_id": "EVT1016",
-    "name": "Career Advice Drop-in",
-    "branch": "Armley Branch",
-    "date": "2025-09-28",
-    "attendance": {
-      "registered": 11,
-      "actual": 26,
-      "age_breakdown": {
-        "0-5": 1,
-        "6-12": 2,
-        "13-17": 2,
-        "18+": 20
-      }
-    },
-    "feedback_score": 2.9
-  },
-  {
-    "event_id": "EVT1017",
-    "name": "English Conversation Class",
-    "branch": "Harehills Branch",
-    "date": "2026-12-21",
-    "attendance": {
-      "registered": 15,
-      "actual": 18,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 5,
-        "13-17": 0,
-        "18+": 25
-      }
-    },
-    "feedback_score": 4.4
-  },
-  {
-    "event_id": "EVT1018",
-    "name": "Digital Skills Workshop",
-    "branch": "Chapeltown Branch",
-    "date": "2026-07-16",
-    "attendance": {
-      "registered": 19,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 8,
-        "6-12": 3,
-        "13-17": 6,
-        "18+": 26
-      }
-    },
-    "feedback_score": 3.2
-  },
-  {
-    "event_id": "EVT1019",
-    "name": "Book Club Meeting",
-    "branch": "Pudsey Branch",
-    "date": "2026-01-10",
-    "attendance": {
-      "registered": 39,
-      "actual": 33,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 10,
-        "13-17": 5,
-        "18+": 21
-      }
-    },
-    "feedback_score": 1.6
-  },
-  {
-    "event_id": "EVT1020",
-    "name": "Reading for Wellbeing",
-    "branch": "Moortown Branch",
-    "date": "2026-10-21",
+    "event_id": "EVT0004",
+    "name": "Computer Skills Workshop",
+    "branch": "Stratford",
+    "date": "2025-09-05",
     "attendance": {
       "registered": 37,
-      "actual": 22,
-      "age_breakdown": {
-        "0-5": 5,
-        "6-12": 4,
-        "13-17": 4,
-        "18+": 30
-      }
-    },
-    "feedback_score": 3.8
-  },
-  {
-    "event_id": "EVT1021",
-    "name": "English Conversation Class",
-    "branch": "Armley Branch",
-    "date": "2025-12-22",
-    "attendance": {
-      "registered": 28,
       "actual": 17,
       "age_breakdown": {
-        "0-5": 8,
-        "6-12": 5,
-        "13-17": 2,
-        "18+": 15
-      }
-    },
-    "feedback_score": 3.9
-  },
-  {
-    "event_id": "EVT1022",
-    "name": "Storytime for Toddlers",
-    "branch": "City Centre Branch",
-    "date": "2026-02-17",
-    "attendance": {
-      "registered": 13,
-      "actual": 48,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 5,
-        "13-17": 3,
-        "18+": 28
-      }
-    },
-    "feedback_score": 2.2
-  },
-  {
-    "event_id": "EVT1023",
-    "name": "Digital Skills Workshop",
-    "branch": "Morley Branch",
-    "date": "2025-01-20",
-    "attendance": {
-      "registered": 31,
-      "actual": 18,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 10,
-        "13-17": 1,
-        "18+": 27
-      }
-    },
-    "feedback_score": 1.8
-  },
-  {
-    "event_id": "EVT1024",
-    "name": "Job Search Support",
-    "branch": "Chapeltown Branch",
-    "date": "2026-11-25",
-    "attendance": {
-      "registered": 38,
-      "actual": 46,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 2,
-        "13-17": 1,
-        "18+": 27
-      }
-    },
-    "feedback_score": 2.5
-  },
-  {
-    "event_id": "EVT1025",
-    "name": "Storytime for Toddlers",
-    "branch": "Armley Branch",
-    "date": "2026-07-23",
-    "attendance": {
-      "registered": 38,
-      "actual": 47,
-      "age_breakdown": {
-        "0-5": 5,
-        "6-12": 4,
-        "13-17": 2,
-        "18+": 29
-      }
-    },
-    "feedback_score": 4.2
-  },
-  {
-    "event_id": "EVT1026",
-    "name": "English Conversation Class",
-    "branch": "Beeston Branch",
-    "date": "2026-01-09",
-    "attendance": {
-      "registered": 40,
-      "actual": 21,
-      "age_breakdown": {
         "0-5": 2,
-        "6-12": 7,
-        "13-17": 1,
-        "18+": 20
-      }
-    },
-    "feedback_score": 2.2
-  },
-  {
-    "event_id": "EVT1027",
-    "name": "English Conversation Class",
-    "branch": "Chapeltown Branch",
-    "date": "2026-02-05",
-    "attendance": {
-      "registered": 27,
-      "actual": 32,
-      "age_breakdown": {
-        "0-5": 3,
         "6-12": 9,
-        "13-17": 1,
-        "18+": 19
+        "13-17": 2,
+        "18+": 8
       }
     },
-    "feedback_score": 1.9
+    "feedback_score": null
   },
   {
-    "event_id": "EVT1028",
-    "name": "Storytime for Toddlers",
-    "branch": "Headingley Branch",
-    "date": "2026-08-01",
+    "event_id": "EVT0005",
+    "name": "Author Talk",
+    "branch": "Manor Park",
+    "date": "2026-05-30",
     "attendance": {
-      "registered": 38,
-      "actual": 36,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 10,
-        "13-17": 0,
-        "18+": 6
-      }
-    },
-    "feedback_score": 2.4
-  },
-  {
-    "event_id": "EVT1029",
-    "name": "Coding for Beginners",
-    "branch": "Beeston Branch",
-    "date": "2025-09-23",
-    "attendance": {
-      "registered": 40,
-      "actual": 36,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 6,
-        "13-17": 6,
-        "18+": 28
-      }
-    },
-    "feedback_score": 4.2
-  },
-  {
-    "event_id": "EVT1030",
-    "name": "Reading for Wellbeing",
-    "branch": "Harehills Branch",
-    "date": "2025-07-23",
-    "attendance": {
-      "registered": 36,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 1,
-        "6-12": 9,
-        "13-17": 8,
-        "18+": 16
-      }
-    },
-    "feedback_score": 2.6
-  },
-  {
-    "event_id": "EVT1031",
-    "name": "Digital Skills Workshop",
-    "branch": "Headingley Branch",
-    "date": "2026-09-28",
-    "attendance": {
-      "registered": 40,
-      "actual": 26,
-      "age_breakdown": {
-        "0-5": 1,
-        "6-12": 7,
-        "13-17": 4,
-        "18+": 25
-      }
-    },
-    "feedback_score": 3.4
-  },
-  {
-    "event_id": "EVT1032",
-    "name": "English Conversation Class",
-    "branch": "Harehills Branch",
-    "date": "2026-12-13",
-    "attendance": {
-      "registered": 38,
-      "actual": 11,
+      "registered": 15,
+      "actual": 28,
       "age_breakdown": {
         "0-5": 10,
         "6-12": 5,
-        "13-17": 7,
-        "18+": 7
-      }
-    },
-    "feedback_score": 3.0
-  },
-  {
-    "event_id": "EVT1033",
-    "name": "Career Advice Drop-in",
-    "branch": "Chapeltown Branch",
-    "date": "2025-04-01",
-    "attendance": {
-      "registered": 33,
-      "actual": 42,
-      "age_breakdown": {
-        "0-5": 3,
-        "6-12": 7,
-        "13-17": 6,
-        "18+": 7
-      }
-    },
-    "feedback_score": 3.8
-  },
-  {
-    "event_id": "EVT1034",
-    "name": "Craft Afternoon",
-    "branch": "Pudsey Branch",
-    "date": "2026-01-02",
-    "attendance": {
-      "registered": 20,
-      "actual": 8,
-      "age_breakdown": {
-        "0-5": 5,
-        "6-12": 0,
-        "13-17": 6,
-        "18+": 8
-      }
-    },
-    "feedback_score": 3.8
-  },
-  {
-    "event_id": "EVT1035",
-    "name": "Reading for Wellbeing",
-    "branch": "Armley Branch",
-    "date": "2025-12-19",
-    "attendance": {
-      "registered": 17,
-      "actual": 9,
-      "age_breakdown": {
-        "0-5": 0,
-        "6-12": 2,
-        "13-17": 7,
-        "18+": 25
-      }
-    },
-    "feedback_score": null
-  },
-  {
-    "event_id": "EVT1036",
-    "name": "Job Search Support",
-    "branch": "City Centre Branch",
-    "date": "2025-12-21",
-    "attendance": {
-      "registered": 14,
-      "actual": 5,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 10,
         "13-17": 0,
-        "18+": 14
-      }
-    },
-    "feedback_score": 1.8
-  },
-  {
-    "event_id": "EVT1037",
-    "name": "Job Search Support",
-    "branch": "Chapeltown Branch",
-    "date": "2025-02-04",
-    "attendance": {
-      "registered": 25,
-      "actual": 43,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 3,
-        "13-17": 1,
-        "18+": 30
-      }
-    },
-    "feedback_score": 2.7
-  },
-  {
-    "event_id": "EVT1038",
-    "name": "English Conversation Class",
-    "branch": "Moortown Branch",
-    "date": "2025-11-19",
-    "attendance": {
-      "registered": 27,
-      "actual": 13,
-      "age_breakdown": {
-        "0-5": 5,
-        "6-12": 3,
-        "13-17": 0,
-        "18+": 23
-      }
-    },
-    "feedback_score": 1.7
-  },
-  {
-    "event_id": "EVT1039",
-    "name": "Local History Talk",
-    "branch": "Chapeltown Branch",
-    "date": "2026-03-23",
-    "attendance": {
-      "registered": 21,
-      "actual": 40,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 7,
-        "13-17": 3,
-        "18+": 23
-      }
-    },
-    "feedback_score": null
-  },
-  {
-    "event_id": "EVT1040",
-    "name": "Storytime for Toddlers",
-    "branch": "Morley Branch",
-    "date": "2026-03-01",
-    "attendance": {
-      "registered": 38,
-      "actual": 36,
-      "age_breakdown": {
-        "0-5": 1,
-        "6-12": 0,
-        "13-17": 0,
-        "18+": 10
-      }
-    },
-    "feedback_score": 4.0
-  },
-  {
-    "event_id": "EVT1041",
-    "name": "Job Search Support",
-    "branch": "Meanwood Branch",
-    "date": "2026-12-26",
-    "attendance": {
-      "registered": 35,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 2,
-        "6-12": 3,
-        "13-17": 2,
-        "18+": 25
-      }
-    },
-    "feedback_score": 3.1
-  },
-  {
-    "event_id": "EVT1042",
-    "name": "Career Advice Drop-in",
-    "branch": "Chapeltown Branch",
-    "date": "2025-10-06",
-    "attendance": {
-      "registered": 32,
-      "actual": 36,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 1,
-        "13-17": 4,
-        "18+": 16
-      }
-    },
-    "feedback_score": 3.5
-  },
-  {
-    "event_id": "EVT1043",
-    "name": "Career Advice Drop-in",
-    "branch": "Headingley Branch",
-    "date": "2025-10-12",
-    "attendance": {
-      "registered": 37,
-      "actual": 39,
-      "age_breakdown": {
-        "0-5": 8,
-        "6-12": 3,
-        "13-17": 7,
-        "18+": 29
-      }
-    },
-    "feedback_score": 2.2
-  },
-  {
-    "event_id": "EVT1044",
-    "name": "Digital Skills Workshop",
-    "branch": "Harehills Branch",
-    "date": "2025-03-22",
-    "attendance": {
-      "registered": 37,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 2,
-        "13-17": 2,
-        "18+": 26
-      }
-    },
-    "feedback_score": 1.7
-  },
-  {
-    "event_id": "EVT1045",
-    "name": "Coding for Beginners",
-    "branch": "Meanwood Branch",
-    "date": "2025-07-09",
-    "attendance": {
-      "registered": 20,
-      "actual": 44,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 0,
-        "13-17": 1,
-        "18+": 28
-      }
-    },
-    "feedback_score": 3.4
-  },
-  {
-    "event_id": "EVT1046",
-    "name": "Book Club Meeting",
-    "branch": "City Centre Branch",
-    "date": "2026-09-04",
-    "attendance": {
-      "registered": 12,
-      "actual": 20,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 9,
-        "13-17": 5,
-        "18+": 18
-      }
-    },
-    "feedback_score": 3.9
-  },
-  {
-    "event_id": "EVT1047",
-    "name": "Coding for Beginners",
-    "branch": "Harehills Branch",
-    "date": "2025-06-08",
-    "attendance": {
-      "registered": 13,
-      "actual": 20,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 3,
-        "13-17": 6,
-        "18+": 12
-      }
-    },
-    "feedback_score": 3.5
-  },
-  {
-    "event_id": "EVT1048",
-    "name": "Digital Skills Workshop",
-    "branch": "Beeston Branch",
-    "date": "2025-04-20",
-    "attendance": {
-      "registered": 24,
-      "actual": 16,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 5,
-        "13-17": 2,
-        "18+": 19
-      }
-    },
-    "feedback_score": 3.7
-  },
-  {
-    "event_id": "EVT1049",
-    "name": "Local History Talk",
-    "branch": "Harehills Branch",
-    "date": "2026-03-02",
-    "attendance": {
-      "registered": 32,
-      "actual": 41,
-      "age_breakdown": {
-        "0-5": 0,
-        "6-12": 4,
-        "13-17": 2,
-        "18+": 8
-      }
-    },
-    "feedback_score": 3.1
-  },
-  {
-    "event_id": "EVT1050",
-    "name": "Book Club Meeting",
-    "branch": "Moortown Branch",
-    "date": "2025-05-20",
-    "attendance": {
-      "registered": 15,
-      "actual": 45,
-      "age_breakdown": {
-        "0-5": 9,
-        "6-12": 2,
-        "13-17": 8,
         "18+": 12
       }
     },
     "feedback_score": 4.5
   },
   {
-    "event_id": "EVT1051",
-    "name": "Craft Afternoon",
-    "branch": "Harehills Branch",
-    "date": "2026-08-09",
+    "event_id": "EVT0006",
+    "name": "Book Club Meeting",
+    "branch": "Plaistow",
+    "date": "2025-08-14",
+    "attendance": {
+      "registered": 15,
+      "actual": 11,
+      "age_breakdown": {
+        "0-5": 0,
+        "6-12": 6,
+        "13-17": 7,
+        "18+": 2
+      }
+    },
+    "feedback_score": 3.5
+  },
+  {
+    "event_id": "EVT0007",
+    "name": "Homework Help Session",
+    "branch": "Plaistow",
+    "date": "2025-09-08",
     "attendance": {
       "registered": 10,
+      "actual": 5,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 3,
+        "13-17": 6,
+        "18+": 4
+      }
+    },
+    "feedback_score": 3.5
+  },
+  {
+    "event_id": "EVT0008",
+    "name": "Children's Story Hour",
+    "branch": "North Woolwich",
+    "date": "2026-01-06",
+    "attendance": {
+      "registered": 16,
+      "actual": 11,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 11,
+        "13-17": 4,
+        "18+": 4
+      }
+    },
+    "feedback_score": 4.6
+  },
+  {
+    "event_id": "EVT0009",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2025-09-11",
+    "attendance": {
+      "registered": 19,
+      "actual": 9,
+      "age_breakdown": {
+        "0-5": 8,
+        "6-12": 0,
+        "13-17": 9,
+        "18+": 20
+      }
+    },
+    "feedback_score": 3.7
+  },
+  {
+    "event_id": "EVT0010",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2025-10-28",
+    "attendance": {
+      "registered": 19,
+      "actual": 31,
+      "age_breakdown": {
+        "0-5": 9,
+        "6-12": 14,
+        "13-17": 3,
+        "18+": 2
+      }
+    },
+    "feedback_score": 3.3
+  },
+  {
+    "event_id": "EVT0011",
+    "name": "Children's Story Hour",
+    "branch": "Custom House",
+    "date": "2026-04-10",
+    "attendance": {
+      "registered": 34,
+      "actual": 27,
+      "age_breakdown": {
+        "0-5": 6,
+        "6-12": 10,
+        "13-17": 2,
+        "18+": 7
+      }
+    },
+    "feedback_score": 3.2
+  },
+  {
+    "event_id": "EVT0012",
+    "name": "Teen Gaming Night",
+    "branch": "Custom House",
+    "date": "2025-10-11",
+    "attendance": {
+      "registered": 48,
+      "actual": 43,
+      "age_breakdown": {
+        "0-5": 4,
+        "6-12": 0,
+        "13-17": 10,
+        "18+": 9
+      }
+    },
+    "feedback_score": 4.2
+  },
+  {
+    "event_id": "EVT0013",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2026-04-04",
+    "attendance": {
+      "registered": 35,
+      "actual": 23,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 1,
+        "13-17": 3,
+        "18+": 15
+      }
+    },
+    "feedback_score": 3.5
+  },
+  {
+    "event_id": "EVT0014",
+    "name": "Homework Help Session",
+    "branch": "Custom House",
+    "date": "2025-07-31",
+    "attendance": {
+      "registered": 14,
+      "actual": 38,
+      "age_breakdown": {
+        "0-5": 0,
+        "6-12": 11,
+        "13-17": 5,
+        "18+": 4
+      }
+    },
+    "feedback_score": 4.7
+  },
+  {
+    "event_id": "EVT0015",
+    "name": "Computer Skills Workshop",
+    "branch": "Manor Park",
+    "date": "2025-12-29",
+    "attendance": {
+      "registered": 44,
+      "actual": 16,
+      "age_breakdown": {
+        "0-5": 7,
+        "6-12": 2,
+        "13-17": 0,
+        "18+": 18
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0016",
+    "name": "Author Talk",
+    "branch": "East Ham",
+    "date": "2025-09-02",
+    "attendance": {
+      "registered": 12,
+      "actual": 8,
+      "age_breakdown": {
+        "0-5": 6,
+        "6-12": 9,
+        "13-17": 10,
+        "18+": 16
+      }
+    },
+    "feedback_score": 3.8
+  },
+  {
+    "event_id": "EVT0017",
+    "name": "Computer Skills Workshop",
+    "branch": "Stratford",
+    "date": "2026-02-03",
+    "attendance": {
+      "registered": 50,
+      "actual": 39,
+      "age_breakdown": {
+        "0-5": 8,
+        "6-12": 4,
+        "13-17": 4,
+        "18+": 2
+      }
+    },
+    "feedback_score": 4.0
+  },
+  {
+    "event_id": "EVT0018",
+    "name": "Book Club Meeting",
+    "branch": "Beckton",
+    "date": "2026-03-12",
+    "attendance": {
+      "registered": 19,
+      "actual": 39,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 12,
+        "13-17": 9,
+        "18+": 20
+      }
+    },
+    "feedback_score": 4.3
+  },
+  {
+    "event_id": "EVT0019",
+    "name": "Homework Help Session",
+    "branch": "Stratford",
+    "date": "2026-04-10",
+    "attendance": {
+      "registered": 29,
       "actual": 32,
       "age_breakdown": {
         "0-5": 3,
+        "6-12": 1,
+        "13-17": 3,
+        "18+": 2
+      }
+    },
+    "feedback_score": 3.2
+  },
+  {
+    "event_id": "EVT0020",
+    "name": "Teen Gaming Night",
+    "branch": "Custom House",
+    "date": "2025-12-28",
+    "attendance": {
+      "registered": 13,
+      "actual": 24,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 5,
+        "13-17": 1,
+        "18+": 0
+      }
+    },
+    "feedback_score": 4.4
+  },
+  {
+    "event_id": "EVT0021",
+    "name": "Book Club Meeting",
+    "branch": "Plaistow",
+    "date": "2026-06-21",
+    "attendance": {
+      "registered": 32,
+      "actual": 38,
+      "age_breakdown": {
+        "0-5": 8,
+        "6-12": 8,
+        "13-17": 2,
+        "18+": 11
+      }
+    },
+    "feedback_score": 4.6
+  },
+  {
+    "event_id": "EVT0022",
+    "name": "Author Talk",
+    "branch": "North Woolwich",
+    "date": "2026-01-31",
+    "attendance": {
+      "registered": 17,
+      "actual": 6,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 13,
+        "13-17": 4,
+        "18+": 16
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0023",
+    "name": "Homework Help Session",
+    "branch": "Custom House",
+    "date": "2026-03-11",
+    "attendance": {
+      "registered": 50,
+      "actual": 9,
+      "age_breakdown": {
+        "0-5": 7,
+        "6-12": 14,
+        "13-17": 8,
+        "18+": 11
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0024",
+    "name": "Teen Gaming Night",
+    "branch": "East Ham",
+    "date": "2025-11-08",
+    "attendance": {
+      "registered": 33,
+      "actual": 15,
+      "age_breakdown": {
+        "0-5": 4,
         "6-12": 3,
+        "13-17": 9,
+        "18+": 3
+      }
+    },
+    "feedback_score": 4.0
+  },
+  {
+    "event_id": "EVT0025",
+    "name": "Children's Story Hour",
+    "branch": "Beckton",
+    "date": "2026-05-11",
+    "attendance": {
+      "registered": 10,
+      "actual": 20,
+      "age_breakdown": {
+        "0-5": 0,
+        "6-12": 15,
         "13-17": 5,
+        "18+": 12
+      }
+    },
+    "feedback_score": 3.4
+  },
+  {
+    "event_id": "EVT0026",
+    "name": "Children's Story Hour",
+    "branch": "Custom House",
+    "date": "2026-01-26",
+    "attendance": {
+      "registered": 36,
+      "actual": 19,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 7,
+        "13-17": 6,
+        "18+": 10
+      }
+    },
+    "feedback_score": 3.2
+  },
+  {
+    "event_id": "EVT0027",
+    "name": "Author Talk",
+    "branch": "Stratford",
+    "date": "2026-03-07",
+    "attendance": {
+      "registered": 42,
+      "actual": 8,
+      "age_breakdown": {
+        "0-5": 2,
+        "6-12": 7,
+        "13-17": 8,
+        "18+": 1
+      }
+    },
+    "feedback_score": 3.1
+  },
+  {
+    "event_id": "EVT0028",
+    "name": "Computer Skills Workshop",
+    "branch": "Beckton",
+    "date": "2026-05-08",
+    "attendance": {
+      "registered": 28,
+      "actual": 24,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 2,
+        "13-17": 8,
+        "18+": 14
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0029",
+    "name": "Book Club Meeting",
+    "branch": "Manor Park",
+    "date": "2026-05-28",
+    "attendance": {
+      "registered": 46,
+      "actual": 24,
+      "age_breakdown": {
+        "0-5": 9,
+        "6-12": 7,
+        "13-17": 7,
+        "18+": 11
+      }
+    },
+    "feedback_score": 4.0
+  },
+  {
+    "event_id": "EVT0030",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2026-07-19",
+    "attendance": {
+      "registered": 44,
+      "actual": 20,
+      "age_breakdown": {
+        "0-5": 2,
+        "6-12": 0,
+        "13-17": 6,
+        "18+": 0
+      }
+    },
+    "feedback_score": 3.7
+  },
+  {
+    "event_id": "EVT0031",
+    "name": "Homework Help Session",
+    "branch": "Stratford",
+    "date": "2025-12-05",
+    "attendance": {
+      "registered": 31,
+      "actual": 5,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 12,
+        "13-17": 4,
+        "18+": 3
+      }
+    },
+    "feedback_score": 5.0
+  },
+  {
+    "event_id": "EVT0032",
+    "name": "Computer Skills Workshop",
+    "branch": "Plaistow",
+    "date": "2025-12-24",
+    "attendance": {
+      "registered": 13,
+      "actual": 14,
+      "age_breakdown": {
+        "0-5": 4,
+        "6-12": 2,
+        "13-17": 0,
+        "18+": 7
+      }
+    },
+    "feedback_score": 4.0
+  },
+  {
+    "event_id": "EVT0033",
+    "name": "Homework Help Session",
+    "branch": "Manor Park",
+    "date": "2025-09-24",
+    "attendance": {
+      "registered": 39,
+      "actual": 10,
+      "age_breakdown": {
+        "0-5": 9,
+        "6-12": 3,
+        "13-17": 8,
+        "18+": 4
+      }
+    },
+    "feedback_score": 3.8
+  },
+  {
+    "event_id": "EVT0034",
+    "name": "Teen Gaming Night",
+    "branch": "Custom House",
+    "date": "2026-02-13",
+    "attendance": {
+      "registered": 13,
+      "actual": 32,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 4,
+        "13-17": 3,
+        "18+": 9
+      }
+    },
+    "feedback_score": 3.6
+  },
+  {
+    "event_id": "EVT0035",
+    "name": "Computer Skills Workshop",
+    "branch": "North Woolwich",
+    "date": "2026-06-26",
+    "attendance": {
+      "registered": 30,
+      "actual": 25,
+      "age_breakdown": {
+        "0-5": 7,
+        "6-12": 8,
+        "13-17": 3,
+        "18+": 2
+      }
+    },
+    "feedback_score": 3.3
+  },
+  {
+    "event_id": "EVT0036",
+    "name": "Teen Gaming Night",
+    "branch": "Stratford",
+    "date": "2026-04-05",
+    "attendance": {
+      "registered": 19,
+      "actual": 11,
+      "age_breakdown": {
+        "0-5": 2,
+        "6-12": 14,
+        "13-17": 7,
+        "18+": 10
+      }
+    },
+    "feedback_score": 4.1
+  },
+  {
+    "event_id": "EVT0037",
+    "name": "Book Club Meeting",
+    "branch": "Plaistow",
+    "date": "2026-01-19",
+    "attendance": {
+      "registered": 29,
+      "actual": 34,
+      "age_breakdown": {
+        "0-5": 4,
+        "6-12": 3,
+        "13-17": 1,
+        "18+": 5
+      }
+    },
+    "feedback_score": 3.6
+  },
+  {
+    "event_id": "EVT0038",
+    "name": "Homework Help Session",
+    "branch": "North Woolwich",
+    "date": "2025-10-21",
+    "attendance": {
+      "registered": 48,
+      "actual": 7,
+      "age_breakdown": {
+        "0-5": 3,
+        "6-12": 10,
+        "13-17": 2,
+        "18+": 2
+      }
+    },
+    "feedback_score": 4.9
+  },
+  {
+    "event_id": "EVT0039",
+    "name": "Computer Skills Workshop",
+    "branch": "Custom House",
+    "date": "2025-08-01",
+    "attendance": {
+      "registered": 13,
+      "actual": 24,
+      "age_breakdown": {
+        "0-5": 4,
+        "6-12": 5,
+        "13-17": 0,
+        "18+": 12
+      }
+    },
+    "feedback_score": 4.1
+  },
+  {
+    "event_id": "EVT0040",
+    "name": "Teen Gaming Night",
+    "branch": "East Ham",
+    "date": "2025-08-29",
+    "attendance": {
+      "registered": 16,
+      "actual": 34,
+      "age_breakdown": {
+        "0-5": 1,
+        "6-12": 4,
+        "13-17": 1,
+        "18+": 0
+      }
+    },
+    "feedback_score": null
+  },
+  {
+    "event_id": "EVT0041",
+    "name": "Book Club Meeting",
+    "branch": "East Ham",
+    "date": "2025-09-06",
+    "attendance": {
+      "registered": 22,
+      "actual": 30,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 2,
+        "13-17": 9,
         "18+": 18
       }
     },
     "feedback_score": 4.6
   },
   {
-    "event_id": "EVT1052",
-    "name": "Job Search Support",
-    "branch": "Chapeltown Branch",
-    "date": "2025-07-02",
-    "attendance": {
-      "registered": 11,
-      "actual": 35,
-      "age_breakdown": {
-        "0-5": 8,
-        "6-12": 0,
-        "13-17": 6,
-        "18+": 21
-      }
-    },
-    "feedback_score": 4.3
-  },
-  {
-    "event_id": "EVT1053",
-    "name": "Storytime for Toddlers",
-    "branch": "Armley Branch",
-    "date": "2026-04-03",
-    "attendance": {
-      "registered": 27,
-      "actual": 5,
-      "age_breakdown": {
-        "0-5": 6,
-        "6-12": 3,
-        "13-17": 2,
-        "18+": 16
-      }
-    },
-    "feedback_score": 3.8
-  },
-  {
-    "event_id": "EVT1054",
-    "name": "Storytime for Toddlers",
-    "branch": "City Centre Branch",
-    "date": "2026-11-10",
-    "attendance": {
-      "registered": 15,
-      "actual": 50,
-      "age_breakdown": {
-        "0-5": 7,
-        "6-12": 9,
-        "13-17": 0,
-        "18+": 19
-      }
-    },
-    "feedback_score": 2.0
-  },
-  {
-    "event_id": "EVT1055",
-    "name": "English Conversation Class",
-    "branch": "Chapeltown Branch",
-    "date": "2026-11-15",
-    "attendance": {
-      "registered": 32,
-      "actual": 45,
-      "age_breakdown": {
-        "0-5": 0,
-        "6-12": 10,
-        "13-17": 1,
-        "18+": 17
-      }
-    },
-    "feedback_score": 2.7
-  },
-  {
-    "event_id": "EVT1056",
-    "name": "Digital Skills Workshop",
-    "branch": "Meanwood Branch",
-    "date": "2026-05-23",
-    "attendance": {
-      "registered": 40,
-      "actual": 44,
-      "age_breakdown": {
-        "0-5": 8,
-        "6-12": 9,
-        "13-17": 3,
-        "18+": 30
-      }
-    },
-    "feedback_score": 3.7
-  },
-  {
-    "event_id": "EVT1057",
-    "name": "Coding for Beginners",
-    "branch": "City Centre Branch",
-    "date": "2026-01-04",
+    "event_id": "EVT0042",
+    "name": "Children's Story Hour",
+    "branch": "Stratford",
+    "date": "2026-02-23",
     "attendance": {
       "registered": 22,
-      "actual": 28,
+      "actual": 33,
       "age_breakdown": {
-        "0-5": 7,
-        "6-12": 9,
-        "13-17": 0,
-        "18+": 16
+        "0-5": 2,
+        "6-12": 2,
+        "13-17": 5,
+        "18+": 3
       }
     },
-    "feedback_score": 3.8
+    "feedback_score": null
   },
   {
-    "event_id": "EVT1058",
-    "name": "Storytime for Toddlers",
-    "branch": "Pudsey Branch",
-    "date": "2025-03-11",
+    "event_id": "EVT0043",
+    "name": "Computer Skills Workshop",
+    "branch": "Stratford",
+    "date": "2026-01-24",
     "attendance": {
-      "registered": 17,
-      "actual": 39,
+      "registered": 20,
+      "actual": 41,
       "age_breakdown": {
-        "0-5": 1,
-        "6-12": 10,
+        "0-5": 6,
+        "6-12": 12,
         "13-17": 7,
-        "18+": 28
+        "18+": 0
+      }
+    },
+    "feedback_score": 3.9
+  },
+  {
+    "event_id": "EVT0044",
+    "name": "Author Talk",
+    "branch": "East Ham",
+    "date": "2026-07-10",
+    "attendance": {
+      "registered": 21,
+      "actual": 22,
+      "age_breakdown": {
+        "0-5": 4,
+        "6-12": 14,
+        "13-17": 2,
+        "18+": 1
+      }
+    },
+    "feedback_score": 4.2
+  },
+  {
+    "event_id": "EVT0045",
+    "name": "Homework Help Session",
+    "branch": "Manor Park",
+    "date": "2026-05-09",
+    "attendance": {
+      "registered": 41,
+      "actual": 31,
+      "age_breakdown": {
+        "0-5": 8,
+        "6-12": 15,
+        "13-17": 0,
+        "18+": 2
+      }
+    },
+    "feedback_score": 3.3
+  },
+  {
+    "event_id": "EVT0046",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2025-08-24",
+    "attendance": {
+      "registered": 43,
+      "actual": 20,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 0,
+        "13-17": 6,
+        "18+": 11
+      }
+    },
+    "feedback_score": 4.6
+  },
+  {
+    "event_id": "EVT0047",
+    "name": "Author Talk",
+    "branch": "Custom House",
+    "date": "2026-04-18",
+    "attendance": {
+      "registered": 42,
+      "actual": 25,
+      "age_breakdown": {
+        "0-5": 6,
+        "6-12": 8,
+        "13-17": 2,
+        "18+": 0
+      }
+    },
+    "feedback_score": 3.4
+  },
+  {
+    "event_id": "EVT0048",
+    "name": "Author Talk",
+    "branch": "Stratford",
+    "date": "2026-06-24",
+    "attendance": {
+      "registered": 40,
+      "actual": 38,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 7,
+        "13-17": 2,
+        "18+": 3
       }
     },
     "feedback_score": 3.5
   },
   {
-    "event_id": "EVT1059",
-    "name": "Career Advice Drop-in",
-    "branch": "Harehills Branch",
-    "date": "2026-06-09",
+    "event_id": "EVT0049",
+    "name": "Teen Gaming Night",
+    "branch": "Beckton",
+    "date": "2026-03-20",
     "attendance": {
-      "registered": 26,
-      "actual": 48,
+      "registered": 13,
+      "actual": 19,
       "age_breakdown": {
-        "0-5": 6,
-        "6-12": 4,
-        "13-17": 0,
-        "18+": 7
+        "0-5": 9,
+        "6-12": 12,
+        "13-17": 5,
+        "18+": 5
       }
     },
-    "feedback_score": 3.1
+    "feedback_score": 4.2
+  },
+  {
+    "event_id": "EVT0050",
+    "name": "Homework Help Session",
+    "branch": "North Woolwich",
+    "date": "2026-01-11",
+    "attendance": {
+      "registered": 32,
+      "actual": 42,
+      "age_breakdown": {
+        "0-5": 0,
+        "6-12": 11,
+        "13-17": 9,
+        "18+": 18
+      }
+    },
+    "feedback_score": 4.9
+  },
+  {
+    "event_id": "EVT0051",
+    "name": "Computer Skills Workshop",
+    "branch": "Custom House",
+    "date": "2026-07-20",
+    "attendance": {
+      "registered": 29,
+      "actual": 16,
+      "age_breakdown": {
+        "0-5": 7,
+        "6-12": 1,
+        "13-17": 1,
+        "18+": 1
+      }
+    },
+    "feedback_score": 3.4
+  },
+  {
+    "event_id": "EVT0052",
+    "name": "Teen Gaming Night",
+    "branch": "Plaistow",
+    "date": "2025-11-01",
+    "attendance": {
+      "registered": 10,
+      "actual": 26,
+      "age_breakdown": {
+        "0-5": 9,
+        "6-12": 6,
+        "13-17": 2,
+        "18+": 10
+      }
+    },
+    "feedback_score": 4.8
+  },
+  {
+    "event_id": "EVT0053",
+    "name": "Author Talk",
+    "branch": "Stratford",
+    "date": "2025-08-15",
+    "attendance": {
+      "registered": 11,
+      "actual": 14,
+      "age_breakdown": {
+        "0-5": 9,
+        "6-12": 4,
+        "13-17": 1,
+        "18+": 16
+      }
+    },
+    "feedback_score": 4.9
+  },
+  {
+    "event_id": "EVT0054",
+    "name": "Author Talk",
+    "branch": "North Woolwich",
+    "date": "2026-05-21",
+    "attendance": {
+      "registered": 35,
+      "actual": 42,
+      "age_breakdown": {
+        "0-5": 1,
+        "6-12": 10,
+        "13-17": 4,
+        "18+": 10
+      }
+    },
+    "feedback_score": 3.3
+  },
+  {
+    "event_id": "EVT0055",
+    "name": "Computer Skills Workshop",
+    "branch": "Beckton",
+    "date": "2026-06-12",
+    "attendance": {
+      "registered": 50,
+      "actual": 36,
+      "age_breakdown": {
+        "0-5": 10,
+        "6-12": 10,
+        "13-17": 2,
+        "18+": 17
+      }
+    },
+    "feedback_score": 4.9
+  },
+  {
+    "event_id": "EVT0056",
+    "name": "Author Talk",
+    "branch": "East Ham",
+    "date": "2026-06-04",
+    "attendance": {
+      "registered": 47,
+      "actual": 16,
+      "age_breakdown": {
+        "0-5": 6,
+        "6-12": 9,
+        "13-17": 4,
+        "18+": 4
+      }
+    },
+    "feedback_score": 3.0
+  },
+  {
+    "event_id": "EVT0057",
+    "name": "Homework Help Session",
+    "branch": "Custom House",
+    "date": "2025-12-06",
+    "attendance": {
+      "registered": 35,
+      "actual": 41,
+      "age_breakdown": {
+        "0-5": 0,
+        "6-12": 5,
+        "13-17": 9,
+        "18+": 10
+      }
+    },
+    "feedback_score": 4.9
+  },
+  {
+    "event_id": "EVT0058",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2026-04-01",
+    "attendance": {
+      "registered": 46,
+      "actual": 11,
+      "age_breakdown": {
+        "0-5": 7,
+        "6-12": 4,
+        "13-17": 5,
+        "18+": 2
+      }
+    },
+    "feedback_score": 5.0
+  },
+  {
+    "event_id": "EVT0059",
+    "name": "Book Club Meeting",
+    "branch": "North Woolwich",
+    "date": "2025-12-30",
+    "attendance": {
+      "registered": 15,
+      "actual": 45,
+      "age_breakdown": {
+        "0-5": 5,
+        "6-12": 14,
+        "13-17": 0,
+        "18+": 8
+      }
+    },
+    "feedback_score": 4.4
   }
 ]
